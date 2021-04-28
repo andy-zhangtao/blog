@@ -7,4 +7,4 @@
   + [TCP/IP 卷一](/book/tcp-ip.md)
 * 文章
 ---
-  + [计算机组成 - 周期](/doc/zucheng-cpu.mds)
+  + [计算机组成 - 周期](/doc/zucheng-cpu.md)
