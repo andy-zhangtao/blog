@@ -78,7 +78,7 @@ Service使用`selector`来和后端服务进行`绑定`，即在`同一个命名
 
 这里有个有意思的地方需要特别注意, Service既然是VIP，那么Pod的响应流量是通过Service进行回复还是会绕过Service直接回复？A还是B？
 
-![k1.png](../../pic/doc/kubernetes/service-02.png)
+![k1.png](../../pic/doc/kubernetes/Service-02.png)
 
 为了探究这个问题的答案，让我们首先从Service本质入手。  从上面我们可以得知Service只是一个VIP，而具体的实现则取决于使用的是Iptables还是Ipvs(usespace太老，不再考虑之内)。
 
