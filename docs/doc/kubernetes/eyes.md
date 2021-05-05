@@ -46,5 +46,64 @@ Ingrss节点收到流量请求之后，按照Http协议进行分析，解析出H
 
 Iptables只有轮询这一种负载均衡算法(实际上，是计算一个随机数然后根据随机数决定路由到哪个Endpoint)。 Ipvs则支持轮替、最少链接、目标地址哈希、源地址哈希、最短预期延迟和从不排队这几种负载方式。
 
+**Service和Pod的映射关系**
+
+每个Pod如果需要对外提供服务，就需要提供一个网络端口(endpoint)供外部访问。但是当Pod意外崩溃或者重启后，这个网络端口也会随之变化。为了使外部调用方对这种变化保持毫无感知，就需要对调用方隐藏Pod的网络端口，只需要提供一个唯一且固定的endpoint即可。 而Service正是为了解决这个问题。
 
 
+![k1.png](../../pic/doc/kubernetes/service.png)
+
+一个Service是一组Pod的逻辑访问地址，每个Service都拥有一个固定不变的IP，其称之为Cluster IP。 这个IP是一个虚IP，当客户端访问此IP时，Service会通过某种路由策略(Ipvs或者Iptables)将请求流量转发到真实的Pod，从而完成代理的功能。
+
+每个Service会**自动评估后端服务的健康度**，当后端服务处于**不可用**状态时，Service会自动将不可用的后端服务从服务列表中摘除掉。而不可用的状态则来自于Pod的**可用性探针**结果。因此为了保证Service可以正常代理网络流程，每个Pod都需要仔细维护**可用性探针**。
+
+Service使用`selector`来和后端服务进行`绑定`，即在`同一个命名空间`中指定的Service会将指定`selector`的Pod自动添加到Service的服务列表之中。
+
+访问Service有两种方式:
+
++ 环境变量(存在局限性，不建议使用)
++ DNS(调用方只能在集群内部使用)
+
+使用DNS的流量拓扑如下:
+
+![k1.png](../../pic/doc/kubernetes/service-01.png)
+
+- Service建立成功后，会向CoreDNS注册自身信息。
+- 调用方Pod向CoreDNS请求解析指定Service的VIP地址。
+- CoreDNS回复VIP地址
+- 调用方Pod向此VIP地址发起流量请求
+- Service根据其实现的路由规则转发流量到后端Pod
+- 后端Pod处理完成后，返回响应流量到Service
+- Service将响应流量返回给调用方Pod
+
+这里有个有意思的地方需要特别注意, Service既然是VIP，那么Pod的响应流量是通过Service进行回复还是会绕过Service直接回复？A还是B？
+
+![k1.png](../../pic/doc/kubernetes/service-02.png)
+
+为了探究这个问题的答案，让我们首先从Service本质入手。  从上面我们可以得知Service只是一个VIP，而具体的实现则取决于使用的是Iptables还是Ipvs(usespace太老，不再考虑之内)。
+
+为了容易描述问题，首先做出以下假设
+
+|名称|IP|
+|--|--|
+|Pod 1|10.0.0.3|
+|Service |10.0.1.3|
+|Pod 2|10.0.2.4|
+
++ Iptables方案
+
+假定此时，Service是通过Iptables实现的，那么当Pod1请求到Service后。 其实是通过Tptables的规则进行路由匹配的。也就是在Iptables规则列表中找是否存在目标IP为10.0.1.3的规则。
+
+如果存在此规则，则将目标IP进行DNAT操作。 DNAT后的地址为:10.0.2.4。 同时将链接记录到net conntrack表中
+> 此时的链接并不是TCP中的链接，而是表示一个网络链接状态
+
+而在规则链中通常还会有MASQUERADE(IP伪装成为封包出去的网卡上的IP)。 所以当Pod2接收到请求时，会看到这个请求来自于Service所在的节点(并不是Service IP。因此VIP是虚IP，并没有对应任何一个实际网卡，这个IP仅仅存在于Iptables规则表中)。
+
+所以Pod2会将响应流量返回到Service所在的节点中，这个节点再将响应流量返回给Pod1.
+
++ Ipvs方案
+
+通过分析Iptables，也就可以分析出Ipvs时的流量拓扑。因为Ipvs和Iptables在性能上面有差异，而实现本质则大同小异。
+
+
+所以最终的答案是A。
