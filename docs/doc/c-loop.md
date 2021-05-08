@@ -4,6 +4,7 @@
 
 ## For 循环
 先来看汇编如何实现for循环。下面是简单的一段C语言版本的for循环:
+
 ![](../pic/doc/zucheng/c-for-loop.svg)
 
 使用`objdump`进行反汇编以后，截取`main`函数部分如下:
