@@ -5,6 +5,8 @@
 
 TCP为了跟踪每个包是否都被正确的接受，会为每个包添加一个SEQ。对方会为每个包返回一个对应的响应信息作为接受确认(ACK)。当在指定时间内(RTT)没有收到ACK，则认为发送失败，并由此触发超时重传。
 
+![](https://yx-prod-resources-shared-1254112465.cos.ap-beijing.myqcloud.com/1/9ccbf15f8fec01af4bab24d9fae211fe-30675)
+
 ## SEQ和ACK的规则
 
 SEQ和ACK都是随机值，但为了尽可能在一个发送过程中携带更多的“信息”，SEQ和ACK会遵守一定的规则来产生。
