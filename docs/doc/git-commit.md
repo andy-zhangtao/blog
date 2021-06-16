@@ -90,3 +90,10 @@ Breaks foo.bar api, foo.baz should be used instead
 
 ### D - Git  Rebase 常用操作
 ![](../pic/doc/gitcommit/1DEA9BA9-8F3B-4186-84A5-371A0FCB632C.png)
+
+#### Git Rebase使用方式
+Rebase只能合并本地commit，已经提交到远程仓库的commit记录是无法合并的。
+
+ 使用Rebase时，需要指定起始commit记录。 例如需要合并最近三次Commit记录，则起始Commit则是第四次(第四次Commit是第三次Commit的父记录)。 然后按需调整最后重新编写Commit信息。
+
+需要注意的时，当合并了Commit之后，就只会保留一次Commit变更记录(既然是合并，那中间过程当然会被忽略掉)。因此如果需要查看中间记录，则就无可奈何了。
