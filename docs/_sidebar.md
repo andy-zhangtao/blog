@@ -21,3 +21,4 @@
   + [Docker容器原理](/doc/docker-what.md)
   + [Kubernetes源码分析 - 编译](/doc/kubernetes/build.md)
   + [Kubernetes源码分析 - 安装](/doc/kubernetes/setup.md)
+  + [Prometheus](/doc/prometheus)
