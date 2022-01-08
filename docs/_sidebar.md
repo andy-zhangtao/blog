@@ -22,3 +22,6 @@
   + [Kubernetes源码分析 - 编译](/doc/kubernetes/build.md)
   + [Kubernetes源码分析 - 安装](/doc/kubernetes/setup.md)
   + [Prometheus](/doc/prometheus)
+
+ * **Prometheus**
+  + [浅入浅出Prometheus](/doc/prometheus/in-out-prometheus.md)
