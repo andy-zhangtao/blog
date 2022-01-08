@@ -1,3 +1,3 @@
 **Prometheus**
 ---
-  + [浅入浅出Prometheus](in-out-prometheus.md)
+  + [浅入浅出Prometheus](/doc/prometheus/in-out-prometheus.md)
