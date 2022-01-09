@@ -26,3 +26,6 @@
   + [浅入浅出kubernetes流量分析](/doc/kubernetes/eyes.md)
  * **Prometheus**
   + [浅入浅出Prometheus](/doc/prometheus/in-out-prometheus.md)
+
+ * **云计算**
+  + + [Serverless入门理论](/doc/cloud/serverless.md)
