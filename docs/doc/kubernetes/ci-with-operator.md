@@ -165,7 +165,7 @@ controller通过listwatch向api-server订阅，CR(CR和CRD不同)变更事件。
 
 + 执行日志
 
-![](https://tva1.sinaimg.cn/large/008i3skNly1gyc5ave41dj313t0u0dlq.jpg)
+![](https://tva1.sinaimg.cn/large/008i3skNly1gyc5jja581j31530u0dlm.jpg)
 
 
 ### 附录
