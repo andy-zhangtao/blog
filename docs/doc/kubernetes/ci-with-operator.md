@@ -148,6 +148,26 @@ controller通过listwatch向api-server订阅，CR(CR和CRD不同)变更事件。
 2. 注释Dockerfile中的`RUN go mod download`
 
 
+### 运行结果
+> 以上代码仅用于原理演示，有很多地方没有仔细考虑。 如果需要使用，仍然需要完善。
+
++ 提交资源
+
+先编写资源：
+- git指的是需要构建的git地址
+- makefile 指的是如果工程使用makefile管理，那么输入需要执行的make命令
+
+![](https://tva1.sinaimg.cn/large/008i3skNly1gyc5c9smzbj30ws09it9l.jpg)
+
+
+![](https://tva1.sinaimg.cn/large/008i3skNly1gyc5f2hfwkj30rk036aaa.jpg)
+
+
++ 执行日志
+
+![](https://tva1.sinaimg.cn/large/008i3skNly1gyc5ave41dj313t0u0dlq.jpg)
+
+
 ### 附录
 
 + 完整代码
