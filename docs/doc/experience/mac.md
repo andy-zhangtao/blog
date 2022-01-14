@@ -47,3 +47,4 @@
 
 + iTerm(可以替代原生终端)
 + Postman(调试API的最爱)
++ [FastGithub](https://github.com/dotnetcore/FastGithub) (Github加速类工具)
