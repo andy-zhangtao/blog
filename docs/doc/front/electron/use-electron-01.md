@@ -62,7 +62,7 @@ Chromium和Node之所以可以放在一起运行，是因为底层都是基于V8
 
 按照约定俗成，electron中运行node部分的文件称之为`main.js`，这算是electron的入口文件了。 `main.js`中负责创建electron的窗体和设置窗体的一些属性，什么是窗体？ 窗体就是Chromium运行的地方。
 
-`main.js`的代码可以参考[https://github.com/andy-zhangtao/electron-tutorials/tutorial-01/new-react/main.js](https://github.com/andy-zhangtao/electron-tutorials/tutorial-01/new-react/main.js) 。
+`main.js`的代码可以参考[https://github.com/andy-zhangtao/electron-tutorials/tutorial-01/new-react/main.js](https://github.com/andy-zhangtao/electron-tutorials/blob/main/tutorial-01/new-react/main.js) 。
 
 在`main.js`中会加载两个文件：`index.html`和`preload.js`。
 
