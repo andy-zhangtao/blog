@@ -102,3 +102,5 @@ node虽然和Chromium都是运行在V8引擎上面的， 但两者还是没有�
 
 1. electron是一个node和Chromium的组合。node负责本地端API的执行，Chromium负责页面的渲染。
 2. react和electron进行整合的关键在于，让Chromium负责渲染react。 而渲染所需要的文件资源由main.js来指定。
+
+**所有代码请参考 https://github.com/andy-zhangtao/electron-tutorials tutorial-01**
