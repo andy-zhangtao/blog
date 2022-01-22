@@ -136,7 +136,7 @@ xxxx
     const handleIndexShow = (it: Number) => {
         switch (it) {
             case IndexType.Translate:
-                setOpenTranslate(true)
+                setOpenTranslate(!openTranslate)
                 setOpenIndex(!openIndex)
                 break
         }
