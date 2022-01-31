@@ -1,6 +1,11 @@
 # Electron 入门教程 五
 > 这篇文章主要介绍如何实现弹性布局和获取响应
 
+本节效果演示
+
+![](https://tva1.sinaimg.cn/large/008i3skNly1gywxx5z7khg31400u00u2.gif)
+
+
 书还接上文，[前面一篇](/doc/front/electron/use-electron-04.md)中，我们成功的实现了再渲染进程中通过IPC与主进程进行了交互。
 
 当实现了这一步以后，我们在渲染进程中就可以进行前端UI开发，不用再担心跨域限制的问题了。 在本篇文章中，我们进入前端开发过程。
