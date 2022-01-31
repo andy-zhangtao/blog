@@ -3,7 +3,7 @@
 
 本节效果演示
 
-![](https://tva1.sinaimg.cn/large/008i3skNly1gywxx5z7khg31400u00u2.gif)
+![](pic/t05.gif)
 
 
 书还接上文，[前面一篇](/doc/front/electron/use-electron-04.md)中，我们成功的实现了再渲染进程中通过IPC与主进程进行了交互。
