@@ -47,3 +47,4 @@
   + + [Electron 入门教程 四](/doc/front/electron/use-electron-04.md)
   + + [Electron 入门教程 五](/doc/front/electron/use-electron-05.md)
   + + [Electron 入门教程 六](/doc/front/electron/use-electron-06.md)
+  + + [Electron 入门教程 七](/doc/front/electron/use-electron-07.md)
