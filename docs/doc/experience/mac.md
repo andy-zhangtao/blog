@@ -11,6 +11,7 @@
 + 截图(可以录制gif、mp4，但不支持前置摄像头)
 + OBS
 + Kap
++ QuickTime Player
 
 ## 截图类
 
@@ -49,3 +50,6 @@
 + iTerm(可以替代原生终端)
 + Postman(调试API的最爱)
 + [FastGithub](https://github.com/dotnetcore/FastGithub) (Github加速类工具)
+
+## 流程图工具
++ draw.io(有网页版和桌面版)
