@@ -48,3 +48,7 @@
   + + [Electron 入门教程 五](/doc/front/electron/use-electron-05.md)
   + + [Electron 入门教程 六](/doc/front/electron/use-electron-06.md)
   + + [Electron 入门教程 七](/doc/front/electron/use-electron-07.md)
+
+  ### 实战经验
+
+  * * [关于go-zero性能的一些想法](/doc/think/go-zero.md)
