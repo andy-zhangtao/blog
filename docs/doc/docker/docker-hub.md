@@ -9,15 +9,15 @@
 
 大致的流程如下:
 
-![](../pic/doc/docker/docker-hub.png)
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzpkdisx9dj21ba0o4djw.jpg)
 
-利用`travis-ci`所提供的免费算力，从`docker hub`下载指定镜像。然后将次镜像推送到国内镜像仓库(腾讯云或者阿里云等等)。然后本地在从国内仓库中下载镜像，将这套流程做成自动化后，下载时间大幅降低，同时下载成功率有大幅提高。
+利用`travis-ci`所提供的免费算力，从`docker hub`下载指定镜像。然后将次镜像推送到国内镜像仓库(腾讯云或者阿里云等等)。最后本地在从国内仓库中下载镜像，将这套流程做成自动化后，下载时间大幅降低，同时下载成功率有大幅提高。
 
 ## 实现步骤
 
 这个方案最重要的地方在于如何让`travis-ci`自动从`docker hub`下载镜像。 我借助`github`的webhook功能，当指定仓库出现`push`事件时，就会触发`travis-ci API`。 而后`travis-ci`会拉取指定的配置文件，通过解析指定文件获取到需要同步的镜像，然后开启后面的自动化流程。
 
-![](../pic/doc/docker/github.png)
+![](../../pic/doc/docker/github.png)
 
 方案的第一步就是`travis-ci`和`github`的关联，这个关联可以参考`travis-ci`官网步骤。
 
@@ -26,7 +26,7 @@
 第三步是编写`.travis.yml`文件。 当`travis-ci`通过解析`.travis.yml`来组织后续动作。
 
 下面是`.travis.yml`文件内容截图：
-![](../pic/doc/docker/travis-ci.png)
+![](../../pic/doc/docker/travis-ci.png)
 
 + 1 用于初始化运行环境。 这里我选择使用golang环境
 + 2 通过环境变量来配置每次同步的镜像名称，这里每次都需要人肉操作，不符合自动化原则。
