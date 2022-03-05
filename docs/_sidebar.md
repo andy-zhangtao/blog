@@ -49,8 +49,10 @@
   + + [Electron 入门教程 六](/doc/front/electron/use-electron-06.md)
   + + [Electron 入门教程 七](/doc/front/electron/use-electron-07.md)
 
+
   ### 实战经验
 
   * * [关于go-zero性能的一些想法](/doc/think/go-zero.md)
   * * [关于go-zero性能的一些想法-02可怕的沙子](/doc/think/cpu.md)
   * * [关于go-zero性能的一些想法-03关于CPU不可不说的那些事](/doc/think/cpu-03.md)
+  * * [关于go-zero性能的一些想法-04CPU性能分析的几个方法论](/doc/think/cpu-04.md)
