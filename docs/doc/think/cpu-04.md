@@ -87,32 +87,40 @@ mpstat显示的数据和vmstat显示的数据大致类似，只不过会显示�
 
 5. ps
 > 不只能观察进程，同时还可以显示每个进程使用CPU的情况
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzzcypb8tuj212q0l8n3o.jpg)
 
 使用`ps aux`(BSD风格)可以查看所有进程的细节信息，重点查看%CPU一列。 也可以使用`ps -ef`(SVR4风格)查看TIME一列(从创建到当前为止，所消耗的CPU的总时间)。
+
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzzcypb8tuj212q0l8n3o.jpg)
+
+
 
 6. top
 > 显示最消耗CPU的任务和CPU消耗百分比
 
+top显示的数据大体来说和mpstat显示的数据会保持一致，但top的数据是按照一定的频率对`/proc`目录做快照，并计算里面的数据。 所以如果有存在期非常短暂的进程，那么可能会遗漏这样的进程。
+
 ![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzzcztntb7j215s0qkn3i.jpg)
 
-top显示的数据大体来说和mpstat显示的数据会保持一致，但top的数据是按照一定的频率对`/proc`目录做快照，并计算里面的数据。 所以如果有存在期非常短暂的进程，那么可能会遗漏这样的进程。
+
 
 如果当前系统中存在大量的`短命`进程，那么建议使用atop。
 
 7. pidstat
 > 为进程或者线程显示CPU用量
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzzd0p6yekj20xy0eojvs.jpg)
 
 pidstat默认只显示活动进程的CPU用量信息。显示的数据包括: 用户态、内核态、CPU使用率和使用的CPU核号。
+
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzzd0p6yekj20xy0eojvs.jpg)
+
 
 如果想输出所有的进程，那么就使用`-p ALL`。
 
 8. time和ptime
 > 显示指定进程的CPU数据
 
+只有想确定单个进程时，才会使用这个命令。
 ![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzzd1l5gljj20v60da0ts.jpg)
 
-只有想确定单个进程时，才会使用这个命令。
+
 
 
