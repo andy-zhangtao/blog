@@ -38,7 +38,8 @@ function (data, theme, echartsInstance, echarts) {
 
 为了实现这样的效果，我们首先来看一下数据结构。 再原始数据库中保存的数据如下所示：
 
-｜time|month|value|
+
+|time|month|value|
 |-----|-----|-----|
 |2021-10-01|2021-10-01|	13000|
 |2021-11-01	|2021-11-01	|14300|
@@ -46,6 +47,7 @@ function (data, theme, echartsInstance, echarts) {
 |2022-01-01|2022-01-01	|12500|
 |2022-02-01|2022-02-01	|15500|
 |2022-03-01|2022-03-01	|13800|
+
 
 `time`是`datetime`类型，用来筛选时间段。 `month`是x轴用来进行分类的字段，`value`则是最终需要显示的值。
 
