@@ -21,6 +21,7 @@
   + + [Mock Server方法总结](/doc/base/mock-server.md)
   + + [Git Commit规范总结](/doc/base/git-commit.md)
   + + [Git 分支开发的三种模式](/doc/base/git-branch.md)
+  + + [Go Module进化史](/doc/base/golang-mod.md)
 
   ### Docker
   + + [一种同步docker hub的方法](/doc/docker/docker-hub.md)
