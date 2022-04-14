@@ -28,7 +28,7 @@
 ![](https://tva1.sinaimg.cn/large/e6c9d24ely1h187cxyti9j20rk0j0ad4.jpg)
 
 
-`go module`就是用来解决这种依赖冲突问题的。 `go module`通过`go.mod`文件来描述当前工程依赖了哪些第三库，以及各自的版本号。 每个工程都有各自的`go.mod`文件，这也就表示每个工程之间可以相互独立的描述各自依赖。从这个角度来说，如果你启用了`go module`，那么就不可以不再需要`GOPATH`了。
+`go module`就是用来解决这种依赖冲突问题的。 `go module`通过`go.mod`文件来描述当前工程依赖了哪些第三库，以及各自的版本号。 每个工程都有各自的`go.mod`文件，这也就表示每个工程之间可以相互独立的描述各自依赖。从这个角度来说，如果你启用了`go module`，那么就可以不再需要`GOPATH`了。
 
 ![](https://tva1.sinaimg.cn/large/e6c9d24ely1h187oz2a7lj20sa0ku77s.jpg)
 
