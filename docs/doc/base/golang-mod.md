@@ -17,7 +17,7 @@
 
 ## go module的好
 
-在没有`go module`之前，golang典型的依赖方式是将依赖代码放在GOPATH中，构建的时候，直接从GOPATH读取所依赖的代码。如果golang工程之间相互依赖的版本不同那还好，相互不影响。
+在没有`go module`之前，golang典型的依赖方式是将依赖代码放在GOPATH中，构建的时候，直接从GOPATH读取所依赖的代码。如果golang工程之间相互依赖的版本相同那还好，相互不影响。
 ![](https://tva1.sinaimg.cn/large/e6c9d24ely1h18786ij5zj20a80j63yz.jpg)
 
 但这种事情怎么可能是常态？ 所以慢慢的就变成了多个golang工程会依赖同一个库的不同版本。
