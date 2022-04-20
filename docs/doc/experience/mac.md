@@ -28,3 +28,4 @@
 ||[FastGithub](https://github.com/dotnetcore/FastGithub)|Github加速类工具|
 ||云编译器|https://godbolt.org/|
 ||基础学习网站|https://www.geeksforgeeks.org/|
+|资源类|Icon下载|https://www.flaticon.com/|
