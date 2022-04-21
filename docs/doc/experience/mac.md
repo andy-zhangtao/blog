@@ -10,6 +10,7 @@
 ||OBS||
 ||Kap||
 ||asciinema|终端录屏工具|
+||GIPHY Capture|Gif录屏工具|
 |截图类|iShot|可以显示图片周边阴影，凸显卡片效果|
 ||LinBatch|批量添加图片水印|
 |图床类|ipic||
