@@ -8,3 +8,4 @@
 - [Git 分支开发的三种模式](/doc/base/git-branch.md)
 - [控制 Goroutine 超时的几种方法](/doc/base/context.md)
 - [Go 和他的小伙伴们](/doc/base/go-and-its-friends.md)
+- [Go Module 进化史](/doc/base/golang-mod.md)

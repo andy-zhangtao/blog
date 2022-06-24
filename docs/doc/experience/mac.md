@@ -10,6 +10,7 @@
 ||OBS||
 ||Kap||
 ||asciinema|终端录屏工具|
+||GIPHY Capture|Gif录屏工具|
 |截图类|iShot|可以显示图片周边阴影，凸显卡片效果|
 ||LinBatch|批量添加图片水印|
 |图床类|ipic||
@@ -28,3 +29,4 @@
 ||[FastGithub](https://github.com/dotnetcore/FastGithub)|Github加速类工具|
 ||云编译器|https://godbolt.org/|
 ||基础学习网站|https://www.geeksforgeeks.org/|
+|资源类|Icon下载|https://www.flaticon.com/|
