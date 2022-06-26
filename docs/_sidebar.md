@@ -6,6 +6,7 @@
 
 - - [儿童人格形成及培养](/book/children.md)
 - - [TCP/IP 卷一](/book/tcp-ip.md)
+- - [希腊神话分析]](/book/mythos.md)
 
 ## 经验
 
