@@ -1,6 +1,6 @@
 # 如何免费使用 Goland
 
-> 仅供尝试，有钱最好还是支持盗版
+> 仅供尝试，有钱最好还是支持正版
 
 1. 点击这里下载 Crack 文件 JetbrainsIdesCrack_5_3_1_KeepMyLic.jar: https://url58.ctfile.com/f/18065158-623428178-c12609?p=6993 (访问密码: 6993)
 
