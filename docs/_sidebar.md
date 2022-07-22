@@ -25,6 +25,7 @@
 - - [Git 分支开发的三种模式](/doc/base/git-branch.md)
 - - [Go Module 进化史](/doc/base/golang-mod.md)
 - - [Go 和他的小伙伴们](/doc/base/go-and-its-friends.md)
+- - [如何免费使用 Goland](/doc/base/how-to-use-goland-free.md)
 
 ### Docker
 
