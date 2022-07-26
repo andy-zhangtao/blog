@@ -9,7 +9,7 @@
 ![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4fgynliyaj20e80wijsz.jpg ":size=100")
 
 3. 在文件的末尾，在新的一行中，插入文本“-javaagent:<PATH_TO_JetbrainsIdesCrack_5_3_1_KeepMyLic.jar> ”
-   ![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4fh21ahshj219m04wq3h.jpg ":size=100")
+   ![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4fh21ahshj219m04wq3h.jpg ":size=200")
 
 4. 保存.vmoptions 文件 。 然后重启 goland。
 
