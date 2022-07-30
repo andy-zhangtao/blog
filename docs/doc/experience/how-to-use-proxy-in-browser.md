@@ -57,7 +57,7 @@
 
 回到最开始的图, 我们丰富一下这张图:
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4pb2ndppfj21ja0ksjxz.jpg ":size=150")
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4pb2ndppfj21ja0ksjxz.jpg)
 
 往下来看如何在 switchyomega 中设置代理参数。点击[选项]，就能进入设置页：
 
