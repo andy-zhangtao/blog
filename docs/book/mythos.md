@@ -11,13 +11,13 @@
 - 北欧神话
 
 希腊神话是三大神话的基础，等罗马人占领希腊以后，又被希腊文化所同化。所以罗马神话看起来好像是山寨版的希腊神话，从架构上面来看罗马神话和希腊神话主人公基本相似，但性格和命运却各有不同，远看是希腊，近看是罗马。
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6a673n4j20u0146n5u.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6a673n4j20u0146n5u.jpg ":size=100")
 
 最后则是北欧神话，其实严格意义上来说，北欧神话和希腊、罗马神话基本就不是一个套路。因为北欧神话大部分都来自于斯堪的纳维亚地区，也就是传说中的维京人地区。 所以北欧神话贯穿着战争和血腥。
 
 在北欧神话中，世界是一个多神的系统(这一点和希腊神话基本类似)。大致分为巨人、诸神、精灵、侏儒和人。在这五类生物中，各有各自的领地，相互之间井水不犯河水。比较著名的人物有奥丁、洛基、索尔、精灵弗雷。有名的地点比如：阿斯加德、中古等等。 看着是不是很眼熟，对。 魔戒、魔兽的世界观、大都取自北欧神话体系。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6b37toqj216u0j40y8.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6b37toqj216u0j40y8.jpg ":size=100")
 
 罗马和北欧神话体系，以后再聊。先说希腊神话体系。
 
@@ -32,15 +32,15 @@
 这三个体系有相似之处也有不同内容。 总体来说，希腊神话是基础，因为希腊神话出现的最早。在希腊神话体系中，诸神并不是完美的英雄，而是各有特点。例如：世界是由乌拉诺斯(天父)和盖亚(地母)创立的，按照现在的逻辑来说，父母应该会爱护自己的孩子。 但在希腊神话体系中，并不是这样的。 古希腊神话中有一个很奇怪的逻辑，就是天父很讨厌自己的孩子。他每生出来一个孩子，就想着要把他弄死。
 
 而乌拉诺斯的儿子(克洛诺斯)用于反抗，推翻了父亲的统治，成为了第二代上帝(帝二代)。
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6d3jhvmj20m00tgdjt.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6d3jhvmj20m00tgdjt.jpg ":size=100")
 
 但很不幸，克洛诺斯继承了老父不信任儿子的毛病，生一个吃一个，吃一个再继续生一个。直到宙斯的出现，宙斯逆转了这个局面。宙斯在他的堂弟，也就是普罗米修斯的帮助下，成功夺取大权，成为了第三代上帝。
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6eicxdfj20re12o44d.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6eicxdfj20re12o44d.jpg ":size=100")
 
 宙斯为了答谢各位兄弟的帮助，开始广封地，广称王。 例如：哈迪斯封为冥界之王，波塞冬封为海洋之神。
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6fmtpkqj20ns160q8d.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6fmtpkqj20ns160q8d.jpg ":size=100")
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6g4t3ujj20mm0rq40q.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6g4t3ujj20mm0rq40q.jpg ":size=100")
 
 在希腊神话体系中，每个英雄并不是完美无缺的，总有一些不完美的地方。 这也符合当时人们的价值观，但我到认为预期说是符合当时人们的价值观不如说符合当时哲学家(苏格拉底、柏拉图和亚里士多德等人)的价值观。 他们普遍相信：觉得完美的东西是不存在的，每个人(包括神)都有不完美的地方。
 
@@ -53,13 +53,13 @@
 除了十二泰坦之外，还有哪些二级神仙呢？
 
 剩下的二级神仙，绝大多数都是奥林匹斯十二神的孩子们也就是(神二代)。 比如丘比特是阿佛洛狄忒(美神)和阿瑞斯(战神)的儿子，
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6h1g1qtj20ie0ncdhv.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6h1g1qtj20ie0ncdhv.jpg ":size=100")
 
 珀耳塞福涅是宙斯和得墨忒耳(地母神)的女儿，
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6hy91p2j20pg0wytd7.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6hy91p2j20pg0wytd7.jpg ":size=100")
 
 阿斯克勒庇俄斯是艾格拉(凡人)和阿波罗的儿子，阿斯克勒庇俄斯这个人我们可能不熟悉，但 999 上面游蛇权杖就是阿斯克勒庇俄斯的圣物。
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6isdu4xj20i8126jtm.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6isdu4xj20i8126jtm.jpg ":size=100")
 
 类似于这样的二级神还有很多很多，可以说希腊神话中大部分的故事都是这些人的故事，而且大部分都很狗血: 某某某喜欢上了某某，某某不高兴，结果某某某就强迫怎么样生下了谁谁谁。 谁谁谁要么不认父去弑父，要么就认父当神仙。 大部分都是这样的套路，我感觉就是那些游吟诗人将平时听到的八卦事情换了个版本，拼装了一些剧情，组成了一个首尾相扣的大 IP 故事。
 
@@ -68,29 +68,29 @@
 ### 希腊神话之野兽和妖怪
 
 无论西方和东方，在妖怪这个物种的描述上面都出奇的一致，都非常的丑！比如斯芬克斯，这是神的宠物，代表神来惩罚凡人。在希腊神话中，它有一张人脸，一个狮身和鹰翼。缪斯(文艺女神)教给斯芬克斯一些谜语，如果对方答不上来斯芬克斯就可以张口吃掉它。 但当斯芬克斯遇到俄狄浦斯(波塞冬六世孙，底比斯国王之子)时，却被俄狄浦斯猜出了答案，斯芬克斯玻璃心破碎，一头摔下悬崖而死。
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6kglhynj20ki0n4wgu.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6kglhynj20ki0n4wgu.jpg ":size=100")
 
 当然并非所有的妖怪都是坏人，比如半人马喀戎。虽然他是半人半马的造型，但却是一个大贤者。为人和善，主持公道，热情好客。这也让他成为了希腊诸多英雄的老师。他的徒弟包括但不限于：阿喀琉斯、埃涅阿斯(爱神之子、特洛伊之王)、狄俄墨得斯(特洛伊之战中的英雄)、伊阿宋(阿尔戈英雄)、奥德修斯、安菲阿剌俄斯(希腊先知)。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6l576nij20j80kqta7.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6l576nij20j80kqta7.jpg ":size=100")
 
 妖怪也有好看的妖怪，例如东方的白骨精，西方的亚马逊。我也很奇怪，为什么在希腊神话中，亚马逊女战士会被归到妖怪一列。 怎么看，怎么都根正苗红，只不过是对父亲(战神阿瑞斯)不满意，就被归到妖怪一列了。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6lsorrtj20tu0ngjtg.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6lsorrtj20tu0ngjtg.jpg ":size=100")
 
 在妖怪中还有一个非常著名的妖怪：美杜莎。 她为后世很多电影无私贡献素材。 活着看谁谁石化，到最后死了死了，还被雅典娜放到铠甲上，继续当兵器使。活着难受，死了憋屈。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6mye0lhj20p20zsdjk.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6mye0lhj20p20zsdjk.jpg ":size=100")
 
 ### 凡人
 
 虽说神力大无穷，但凡人也能出英雄。最有名的有两个： 伊阿宋和尤利西斯。 先来看伊阿宋，他带领一船的英雄(有名有姓的有 55 个英雄，个个都是大 IP)去夺取金羊毛。 他在希腊神话中的故事就堪比中国的三国演义。 手下大将云集，一路闯关杀将才最终夺取了金羊毛。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6o48bmrj20q017kack.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6o48bmrj20q017kack.jpg ":size=100")
 
 第二个是尤利西斯，这个名字可能不出名。但《奥德赛》讲的就是他的故事。 奥德赛讲的是尤利西斯在经过 10 年特洛伊之战后，又花了 10 年才能回家的故事。 在尤利西斯回家路上，堪比唐三藏取经呀。经过 12 个大关，从统军回国，到最后变成一个糟老头子，各种心酸只有他一人才知。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6p20ha3j20u00z5tgl.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6p20ha3j20u00z5tgl.jpg ":size=100")
 
 ## 总结
 
@@ -100,8 +100,8 @@
 
 最后才是第三阶段，大量人类英雄涌现的英雄时代。比较著名的三大英雄团就是：阿尔戈英雄远征，底比斯史诗和特洛伊战争。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6rnrnglj20u014078k.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6rnrnglj20u014078k.jpg ":size=100")
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6ruqiuyj20u0140gqm.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3n6ruqiuyj20u0140gqm.jpg ":size=100")
 
 等有时间了，再来分析罗马神话体系和北欧神话体系。
