@@ -5,3 +5,4 @@
 | 电子书检索                           | https://zh.z-lib.org/   | 全球最大的开源电子书图书馆 |
 | 适合程序员的音乐网站                 | musicforprogramming.net |
 | 一个非著名的俄罗斯下载网站(懂得都懂) | https://appstorrent.ru/ |                            |
+| 分析目标网站技术栈                   | https://builtwith.com/  |                            |
