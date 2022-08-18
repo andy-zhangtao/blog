@@ -1,6 +1,7 @@
 ## **基础**
 
 - [计算机组成 - 周期](/doc/base/zucheng-cpu.md)
+- [计算计基础 - 语法解析器](/doc/base/pegjs.md)
 - [编程语言 - 数据一致性](/doc/base/golang-data-share.md)
 - [编程语言 - 判断和循环的汇编实现](/doc/base/c-loop.md)
 - [Mock Server 方法总结](/doc/base/mock-server.md)
