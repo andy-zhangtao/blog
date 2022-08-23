@@ -37,6 +37,7 @@
 - - [Go Module 进化史](/doc/base/golang-mod.md)
 - - [Go 和他的小伙伴们](/doc/base/go-and-its-friends.md)
 - - [如何免费使用 Goland](/doc/base/how-to-use-goland-free.md)
+- - [从如何解析文件来看如何实现词法解析](/doc/base/how-to-parse-word.md)
 
 ### Docker
 
