@@ -15,6 +15,10 @@
 - - [密码体系六 - 消息认证码](/book/secret/06.md)
 - - [密码体系七 - 证书](/book/secret/07.md)
 
+## 欧洲简史
+
+- [希腊和罗马](/doc/Europe/01.md)
+
 ## 经验
 
 - - [Mac 效率工具清单](/doc/experience/mac.md)
