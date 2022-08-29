@@ -7,6 +7,9 @@
 - - [儿童人格形成及培养](/book/children.md)
 - - [TCP/IP 卷一](/book/tcp-ip.md)
 - - [希腊神话分析](/book/mythos.md)
+
+## 密码体系
+
 - - [密码体系一 - 启蒙](/book/secret/01.md)
 - - [密码体系二 - 对称密码](/book/secret/02.md)
 - - [密码体系三 - 分组密码](/book/secret/03.md)
@@ -19,6 +22,7 @@
 
 - [欧洲古典时代的三要素: 希腊罗马、基督教和日耳曼人](/book/Europe/01.md)
 - [基督教的盛起和罗马帝国的衰落](/book/Europe/02.md)
+- [文艺复兴，基督教被放弃的前夜](/book/Europe/03.md)
 
 ## 经验
 
