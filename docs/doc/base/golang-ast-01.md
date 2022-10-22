@@ -70,7 +70,7 @@ ast.Fprint(os.Stdout, token.NewFileSet(), file, func(name string, value reflect.
 
 - Inspect
 
-  > 按照深度优先策略，从给定的`Node`开始通过执行`f(Node)`进行元素检查。 如果` f(Node)``返回了true `，则继续下一个元素。 如果返回了`false`，则终止遍历。`Inspect`过程结束。在遍历过程中，需要注意`Node`可能为`nil` . 需要进行 `Node != nil`的判断
+  > 按照深度优先策略，从给定的`Node`开始通过执行`f(Node)`进行元素检查。 如果`f(Node)` 返回了 true ，则继续下一个元素。 如果返回了`false`，则终止遍历。`Inspect`过程结束。在遍历过程中，需要注意`Node`可能为`nil`. 需要进行`Node != nil`的判断
 
 - IsExported
 
@@ -92,7 +92,7 @@ ast.Fprint(os.Stdout, token.NewFileSet(), file, func(name string, value reflect.
   > 对 Import 的包进行重排序，同时会对重复的包进行合并处理。 重复的规则是 `包名和Path`完全相同
 
 ```
-  log    "github.com/sirupsen/logrus"
+  log      "github.com/sirupsen/logrus"
   --     | -----------------------------
   包名                  PATH
 ```
@@ -100,4 +100,3 @@ ast.Fprint(os.Stdout, token.NewFileSet(), file, func(name string, value reflect.
 - Walk
   > 对给定的 Node 按照深度优先规则进行遍历操作。如果`Visit`函数返回 nil，则终止遍历。 否则持续遍历。
   > 一般需要 `Visit` 中判断 Node 的类型，根据不同的类型进行不同的判断。 Walk 内部会不停的递归调用 Walk 函数，所以在 Visit 中可以通过修改所有者指针的方式修改数据。
-  > 代码实例可以参考 [[怎么分析golang源代码]] - 全类型匹配
