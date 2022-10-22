@@ -12,3 +12,4 @@
 - [Go Module 进化史](/doc/base/golang-mod.md)
 - [如何免费使用 Goland](/doc/base/how-to-use-goland-free.md)
 - [从如何解析文件来看如何实现词法解析](/doc/base/how-to-parse-word.md)
+- [Go AST 学习总结之来自标准库的无形之手 ](/doc/base/golang-ast-01.md)
