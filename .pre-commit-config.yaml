@@ -1,0 +1,10 @@
+# See https://pre-commit.com for more information
+# See https://pre-commit.com/hooks.html for more hooks
+repos:
+  - repo: local
+    hooks:
+      - id: git-pull
+        name: Pull the latest code before commit
+        entry: /usr/bin/git
+        language: script
+        files: "pull"

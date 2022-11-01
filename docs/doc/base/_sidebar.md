@@ -1,6 +1,7 @@
 ## **基础**
 
 - [计算机组成 - 周期](/doc/base/zucheng-cpu.md)
+- [计算计基础 - 语法解析器](/doc/base/pegjs.md)
 - [编程语言 - 数据一致性](/doc/base/golang-data-share.md)
 - [编程语言 - 判断和循环的汇编实现](/doc/base/c-loop.md)
 - [Mock Server 方法总结](/doc/base/mock-server.md)
@@ -10,3 +11,5 @@
 - [Go 和他的小伙伴们](/doc/base/go-and-its-friends.md)
 - [Go Module 进化史](/doc/base/golang-mod.md)
 - [如何免费使用 Goland](/doc/base/how-to-use-goland-free.md)
+- [从如何解析文件来看如何实现词法解析](/doc/base/how-to-parse-word.md)
+- [Go AST 学习总结之来自标准库的无形之手](/doc/base/golang-ast-01.md)

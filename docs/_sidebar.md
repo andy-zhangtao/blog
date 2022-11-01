@@ -7,10 +7,22 @@
 - - [儿童人格形成及培养](/book/children.md)
 - - [TCP/IP 卷一](/book/tcp-ip.md)
 - - [希腊神话分析](/book/mythos.md)
+
+## 密码体系
+
 - - [密码体系一 - 启蒙](/book/secret/01.md)
 - - [密码体系二 - 对称密码](/book/secret/02.md)
 - - [密码体系三 - 分组密码](/book/secret/03.md)
 - - [密码体系四 - 非对称密码](/book/secret/04.md)
+- - [密码体系五 - 散列函数](/book/secret/05.md)
+- - [密码体系六 - 消息认证码](/book/secret/06.md)
+- - [密码体系七 - 证书](/book/secret/07.md)
+
+## 欧洲简史
+
+- [欧洲古典时代的三要素: 希腊罗马、基督教和日耳曼人](/book/Europe/01.md)
+- [基督教的盛起和罗马帝国的衰落](/book/Europe/02.md)
+- [文艺复兴，基督教被放弃的前夜](/book/Europe/03.md)
 
 ## 经验
 
@@ -18,12 +30,14 @@
 - - [超级资料清单](/doc/experience/Super-data.md)
 - - [如何为浏览器选择代理](/doc/experience/proxy/how-to-use-proxy-in-browser.md)
 - - [如何在各个操作系统中设置代理](/doc/experience/proxy/how-to-use-proxy-in-os.md)
+- - [如何在 mac 中使用 pac 文件](/doc/experience/proxy/how-to-use-pac-in-os.md)
 
 ## 文章
 
 ### 基础
 
 - - [计算机组成 - 周期](/doc/base/zucheng-cpu.md)
+- - [计算计基础 - 语法解析器](/doc/base/pegjs.md)
 - - [编程语言 - 数据一致性](/doc/base/golang-data-share.md)
 - - [编程语言 - 判断和循环的汇编实现](/doc/base/c-loop.md)
 - - [Mock Server 方法总结](/doc/base/mock-server.md)
@@ -32,6 +46,8 @@
 - - [Go Module 进化史](/doc/base/golang-mod.md)
 - - [Go 和他的小伙伴们](/doc/base/go-and-its-friends.md)
 - - [如何免费使用 Goland](/doc/base/how-to-use-goland-free.md)
+- - [从如何解析文件来看如何实现词法解析](/doc/base/how-to-parse-word.md)
+- - [Go AST 学习总结之来自标准库的无形之手](/doc/base/golang-ast-01.md)
 
 ### Docker
 
@@ -67,6 +83,8 @@
 - - [Electron 入门教程 五](/doc/front/electron/use-electron-05.md)
 - - [Electron 入门教程 六](/doc/front/electron/use-electron-06.md)
 - - [Electron 入门教程 七](/doc/front/electron/use-electron-07.md)
+
+- - [跨域基本原理](/doc/front/cors.md)
 
 ### 实战经验
 
