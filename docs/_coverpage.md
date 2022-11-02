@@ -6,3 +6,5 @@
 
 - zhang tao
 - ztao8607@gmail.com
+- Telegram: @OK_Bang
+- Twitter: @big_ok_bang
