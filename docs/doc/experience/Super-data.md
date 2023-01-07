@@ -1,23 +1,26 @@
 # 超级资料库
 
-| 分类                                 | 地址                             | 备注                       |
-| ------------------------------------ | -------------------------------- | -------------------------- |
-| 电子书检索                           | https://zh.z-lib.org/            | 全球最大的开源电子书图书馆 |
-| 适合程序员的音乐网站                 | musicforprogramming.net          |
-| 一个非著名的俄罗斯下载网站(懂得都懂) | https://appstorrent.ru/          |                            |
-| 分析目标网站技术栈                   | https://builtwith.com/           |                            |
-| 数学公式编辑器                       | https://www.latexlive.com        |                            |
-| 在线正则                             | https://regex101.com             |                            |
-| Redis 内存使用量                     | http://www.redis.cn/redis_memory |                            |
+| 分类                                 | 地址                                                                                               | 备注                       |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------- | -------------------------- |
+| 电子书检索                           | https://zh.z-lib.org/ <br/> http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/ | 全球最大的开源电子书图书馆 |
+| 适合程序员的音乐网站                 | musicforprogramming.net                                                                            |
+| 一个非著名的俄罗斯下载网站(懂得都懂) | https://appstorrent.ru/                                                                            |                            |
+| 分析目标网站技术栈                   | https://builtwith.com/                                                                             |                            |
+| 数学公式编辑器                       | https://www.latexlive.com                                                                          |                            |
+| 在线正则                             | https://regex101.com                                                                               |                            |
+| Redis 内存使用量                     | http://www.redis.cn/redis_memory                                                                   |                            |
 
 # 资源仓库
 
-| 名称      | 简介                                 | 地址                                                                                                  |
-| --------- | ------------------------------------ | ----------------------------------------------------------------------------------------------------- |
-| Folx      | 一个非常好用的 Mac 端下载工具        | Folx 5.27.dmg.zip: http://file.devexp.cn/f/18065158-747416636-694e13?p=6993 (访问密码: 6993)          |
-| Folx Pro  | Pro 版本                             | Folx_5_27_Pro.dmg.zip: http://file.devexp.cn/f/18065158-760221311-21f5a6?p=6993 (访问密码: 6993)      |
-| Bartender | 可以折叠菜单栏，节省菜单栏空间的工具 | Bartender_4_4_2_11_TNT.dmg: http://file.devexp.cn/f/18065158-694132600-3e9fa8?p=6993 (访问密码: 6993) |
-| Goland    | goland 破解 Jar 和密钥文件           | goland: http://file.devexp.cn/d/18065158-53074803-497b91?p=6993 (访问密码: 6993)                      |
+| 名称      | 简介                                 | 地址                                                                                                           |
+| --------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| Folx      | 一个非常好用的 Mac 端下载工具        | Folx 5.27.dmg.zip: http://file.devexp.cn/f/18065158-747416636-694e13?p=6993 (访问密码: 6993)                   |
+| Folx Pro  | Pro 版本                             | Folx_5_27_Pro.dmg.zip: http://file.devexp.cn/f/18065158-760221311-21f5a6?p=6993 (访问密码: 6993)               |
+| Bartender | 可以折叠菜单栏，节省菜单栏空间的工具 | Bartender_4_4_2_11_TNT.dmg: http://file.devexp.cn/f/18065158-694132600-3e9fa8?p=6993 (访问密码: 6993)          |
+| Goland    | goland 破解 Jar 和密钥文件           | goland: http://file.devexp.cn/d/18065158-53074803-497b91?p=6993 (访问密码: 6993)                               |
+| Tor       | 暗网通行证                           | TorBrowser-12.0.1-macos_ALL.dmg.zip: http://file.devexp.cn/f/18065158-761229748-46fe0c?p=6993 (访问密码: 6993) |
+
+|
 
 # 书架
 
