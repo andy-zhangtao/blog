@@ -34,3 +34,4 @@
 | 哆啦 A 梦珍藏版(第一部：卷 1-卷 6)  | 中文版 | mobi 格式，推荐使用 Neat Reader 打开 | http://file.devexp.cn/f/18065158-761688062-71ce41?p=6993 |
 | 哆啦 A 梦珍藏版(第二部：卷 7-卷 12) | 中文版 | epub 格式，推荐使用 Neat Reader 打开 | http://file.devexp.cn/f/18065158-761801990-5b63fa?p=6993 |
 | 半小时漫画大套装(共 16 册)          | 中文版 | epub 格式                            | http://file.devexp.cn/f/18065158-761803177-9eac48?p=6993 |
+| 半小时漫画经济学：生活常识篇        | 中文版 | epub 格式                            | http://file.devexp.cn/f/18065158-761843480-00fcf0?p=6993 |
