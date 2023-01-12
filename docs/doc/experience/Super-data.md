@@ -12,15 +12,14 @@
 
 # 资源仓库
 
-| 名称      | 简介                                 | 地址                                                                                                           |
-| --------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
-| Folx      | 一个非常好用的 Mac 端下载工具        | Folx 5.27.dmg.zip: http://file.devexp.cn/f/18065158-747416636-694e13?p=6993 (访问密码: 6993)                   |
-| Folx Pro  | Pro 版本                             | Folx_5_27_Pro.dmg.zip: http://file.devexp.cn/f/18065158-760221311-21f5a6?p=6993 (访问密码: 6993)               |
-| Bartender | 可以折叠菜单栏，节省菜单栏空间的工具 | Bartender_4_4_2_11_TNT.dmg: http://file.devexp.cn/f/18065158-694132600-3e9fa8?p=6993 (访问密码: 6993)          |
-| Goland    | goland 破解 Jar 和密钥文件           | goland: http://file.devexp.cn/d/18065158-53074803-497b91?p=6993 (访问密码: 6993)                               |
-| Tor       | 暗网通行证                           | TorBrowser-12.0.1-macos_ALL.dmg.zip: http://file.devexp.cn/f/18065158-761229748-46fe0c?p=6993 (访问密码: 6993) |
-
-|
+| 名称      | 简介                                 | 地址                                                                                                                                                     |
+| --------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Folx      | 一个非常好用的 Mac 端下载工具        | Folx 5.27.dmg.zip: http://file.devexp.cn/f/18065158-747416636-694e13?p=6993 (访问密码: 6993)                                                             |
+| Folx Pro  | Pro 版本                             | Folx_5_27_Pro.dmg.zip: http://file.devexp.cn/f/18065158-760221311-21f5a6?p=6993 (访问密码: 6993)                                                         |
+| Bartender | 可以折叠菜单栏，节省菜单栏空间的工具 | Bartender_4_4_2_11_TNT.dmg: http://file.devexp.cn/f/18065158-694132600-3e9fa8?p=6993 (访问密码: 6993)                                                    |
+| Goland    | goland 破解 Jar 和密钥文件           | goland: http://file.devexp.cn/d/18065158-53074803-497b91?p=6993 (访问密码: 6993)                                                                         |
+| Tor       | 暗网通行证                           | TorBrowser-12.0.1-macos_ALL.dmg.zip: http://file.devexp.cn/f/18065158-761229748-46fe0c?p=6993 (访问密码: 6993)                                           |
+| Tor       | Bridge                               | obfs4 52.78.79.158:19002 EE37139A51726673C3CB1BDFB4DEAD0957542E33 cert=4UIbuJnFUdYfMGECC4Auzo1YFCioJFlMEP4eTkAd0JvoH/lG/3ntiIOocui72K/pcFL3Vw iat-mode=0 |
 
 # 书架
 
@@ -35,3 +34,6 @@
 | 哆啦 A 梦珍藏版(第二部：卷 7-卷 12) | 中文版 | epub 格式，推荐使用 Neat Reader 打开 | http://file.devexp.cn/f/18065158-761801990-5b63fa?p=6993 |
 | 半小时漫画大套装(共 16 册)          | 中文版 | epub 格式                            | http://file.devexp.cn/f/18065158-761803177-9eac48?p=6993 |
 | 半小时漫画经济学：生活常识篇        | 中文版 | epub 格式                            | http://file.devexp.cn/f/18065158-761843480-00fcf0?p=6993 |
+| 半小时漫画中国哲学史                | 中文版 | epub 格式                            | http://file.devexp.cn/f/18065158-762449843-cc50d9?p=6993 |
+| Go 语言高级编程                     | 中文版 | epub 格式                            | http://file.devexp.cn/f/18065158-762488604-ec4a82?p=6993 |
+| Go 语言实战                         | 中文版 | epub 格式                            | http://file.devexp.cn/f/18065158-762488591-007325?p=6993 |
