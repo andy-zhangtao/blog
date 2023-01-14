@@ -8,6 +8,7 @@
 - - [TCP/IP 卷一](/book/tcp-ip.md)
 - - [希腊神话分析](/book/mythos.md)
 - - [<恶意>读后感](/book/evil.md)
+- - [<中国哲学史 1&2>读后感](/book/philosophy.md)
 
 ## 密码体系
 
