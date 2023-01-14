@@ -40,6 +40,7 @@
 | 半小时漫画科学史 2                  | 中文版 | epub 格式                                       | http://file.devexp.cn/f/18065158-763374654-2d7e21?p=6993 |
 | 半小时漫画唐诗宋词(全 4 册)         | 中文版 | epub 格式                                       | http://file.devexp.cn/f/18065158-763374654-2d7e21?p=6993 |
 | 半小时漫画中国哲学史                | 中文版 | epub 格式                                       | http://file.devexp.cn/f/18065158-762449843-cc50d9?p=6993 |
+| 半小时漫画中国哲学史 2              | 中文版 | epub 格式                                       | http://file.devexp.cn/f/18065158-763662991-b81735?p=6993 |
 | Go 语言高级编程                     | 中文版 | epub 格式                                       | http://file.devexp.cn/f/18065158-762488604-ec4a82?p=6993 |
 | Go 语言实战                         | 中文版 | epub 格式                                       | http://file.devexp.cn/f/18065158-762488591-007325?p=6993 |
 | Go 语言 101                         | 中文版 | epub 格式                                       | http://file.devexp.cn/f/18065158-762490216-f575ff?p=6993 |
