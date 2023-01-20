@@ -46,3 +46,6 @@
 | Go 语言高级编程                      | 中文版 | epub 格式                                       | http://file.devexp.cn/f/18065158-762488604-ec4a82?p=6993 |
 | Go 语言实战                          | 中文版 | epub 格式                                       | http://file.devexp.cn/f/18065158-762488591-007325?p=6993 |
 | Go 语言 101                          | 中文版 | epub 格式                                       | http://file.devexp.cn/f/18065158-762490216-f575ff?p=6993 |
+| 中央帝国的财政密码                   | 中文版 | epub 格式                                       | http://file.devexp.cn/f/18065158-769904763-c516ac?p=6993 |
+| 中央帝国的军事密码                   | 中文版 | epub 格式                                       | http://file.devexp.cn/f/18065158-769904730-ca0874?p=6993 |
+| 中央帝国的哲学密码                   | 中文版 | epub 格式                                       | http://file.devexp.cn/f/18065158-769904731-c3924e?p=6993 |
