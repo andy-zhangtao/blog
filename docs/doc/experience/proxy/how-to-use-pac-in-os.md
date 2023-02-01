@@ -11,7 +11,7 @@
 
 - 自动代理配置
 
-  > 如果内网中没有代理服务器，那么就可以自己编写一个`pac`文件保存起来。通过`自动代理配置`功能加载这个文件。当然也可以将`pac`文件放到网络中，通过`自动代理配置`功能自动加载。 比如`https://gist.githubusercontent.com/andy-zhangtao/f314e15bd3d45bc4353a3aee3fbb2666/raw/bfdcad89d018ac893567d67327b0b33ef3f7a219/omega_auto.pac`就是我写的`pac`文件。
+  > 如果内网中没有代理服务器，那么就可以自己编写一个`pac`文件保存起来。通过`自动代理配置`功能加载这个文件。当然也可以将`pac`文件放到网络中，通过`自动代理配置`功能自动加载。 比如`https://gist.githubusercontent.com/andy-zhangtao/f314e15bd3d45bc4353a3aee3fbb2666/raw/bfdcad89d018ac893567d67327b0b33ef3f7a219/omega_auto.pac`或者`https://01.picforworld.xyz/pac/omega_auto.txt`就是我写的`pac`文件。
 
 - 网页代理、安全网页代理、FTP、Socks 代理
   > 这几个代理大同小异，输入指定的代理服务器地址即可。
