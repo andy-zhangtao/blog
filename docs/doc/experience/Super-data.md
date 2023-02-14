@@ -52,3 +52,4 @@
 | Docker 全攻略                                     | 中文版 | epub 格式                                       | http://file.devexp.cn/f/18065158-769905026-4eb670?p=6993 |
 | 用户体验要素：以用户为中心的产品设计(原书第 2 版) | 中文版 | epub 格式                                       | http://file.devexp.cn/f/18065158-802591684-85822b?p=6993 |
 | 从一到无穷大 (乔治伽莫夫)                         | 中文版 | epub 格式                                       | http://file.devexp.cn/f/18065158-805101009-c287b0?p=6993 |
+| iOS 编程基础：Swift、Xcode 和 Cocoa 入门指南      | 中文版 | epub 格式                                       | http://file.devexp.cn/f/18065158-808532588-7422f2?p=6993 |
