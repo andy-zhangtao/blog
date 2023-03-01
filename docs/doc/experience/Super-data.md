@@ -9,6 +9,7 @@
 | 数学公式编辑器                       | https://www.latexlive.com                                                                          |                            |
 | 在线正则                             | https://regex101.com                                                                               |                            |
 | Redis 内存使用量                     | http://www.redis.cn/redis_memory                                                                   |                            |
+| 在线学习设计的网站                   | https://method.ac                                                                                  |
 
 # 资源仓库
 
