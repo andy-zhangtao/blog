@@ -44,6 +44,8 @@
 
 4. 性能调优(天下武功，唯快不破。 在最求极致性能的道路上，痛并快乐着)
 
+5. 调戏 GPT(一个 app 正在规划中)
+
 ## 开源项目
 
 - 有兴趣可以关注这个 https://github.com/runways/goAOP.git 一个 golang 版本的 AOP 库。
