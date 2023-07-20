@@ -11,6 +11,7 @@
 | Redis 内存使用量                     | http://www.redis.cn/redis_memory                                                                   |                                                                                                                                                    |
 | 在线学习设计的网站                   | https://method.ac                                                                                  |
 | 3Blue1Brown                          | https://www.3blue1brown.com                                                                        | 由 Grant Sanderson 创建的 YouTube 频道。这个频道从独特的视觉角度解说高等数学，内容包括线性代数、微积分、神经网络、黎曼猜想、傅里叶变换以及四元数等 |
+| Prompt优化设计 | https://promptperfect.jina.ai/ | 一个Prompt优化设计的网站，可以针对输入进行优化直到满意 |
 
 # 资源仓库
 
