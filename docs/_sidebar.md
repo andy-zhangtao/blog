@@ -100,3 +100,7 @@
 ### 网络
 
 - - [浅谈翻墙和暗网的一些区别](/doc/network/tor.md)
+
+### GPT
+
+- - [浅谈翻墙和暗网的一些区别](/doc/gpt/introduction.md)
