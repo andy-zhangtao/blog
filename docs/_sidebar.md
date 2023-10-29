@@ -103,4 +103,4 @@
 
 ### GPT
 
-- - [浅谈翻墙和暗网的一些区别](/doc/gpt/introduction.md)
+- - [GPT 模型学习的一些心得体会 - 01](/doc/gpt/introduction.md)
