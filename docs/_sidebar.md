@@ -106,3 +106,4 @@
 
 - - [GPT 模型学习的一些心得体会 - 01](/doc/gpt/introduction.md) 
   - [GPT 模型学习的一些心得体会 - 自注意力机制](/doc/gpt/self-attention.md)
+  - [GPT 对于意图识别的一些想法](/doc/gpt/intent.md)
