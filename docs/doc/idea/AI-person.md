@@ -37,3 +37,12 @@ https://www.youtube.com/watch?v=OpYYFGJPr0A
 ## 待验证的想法
 
 - [口型一致性](https://github.com/Rudrabha/Wav2Lip)
+
+
+
+### 参考资料
+
+- 语音转文字：whisper
+- 文字翻译：GPT
+- 声音克隆+生成音频：so-vits-svc（Github：https://github.com/svc-develop-team/so-vits-svc）
+- 生成符合音频的嘴型视频：GeneFace++（++版本还没发代码，GeneFace的Github：https://github.com/yerfor/GeneFace）
