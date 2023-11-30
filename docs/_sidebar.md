@@ -35,6 +35,14 @@
 - - [如何在 mac 中使用 pac 文件](/doc/experience/proxy/how-to-use-pac-in-os.md)
 - - [基础课程](/doc/experience/need-to-learn.md)
 
+
+
+## 创意
+
+- [AI网红](/doc/idea/AI-person.md)
+
+  
+
 ## 文章
 
 ### 基础
