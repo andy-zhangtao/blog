@@ -32,3 +32,8 @@ https://www.youtube.com/watch?v=QZXc8xUezFI
 
 https://www.youtube.com/watch?v=OpYYFGJPr0A
 
+
+
+## 待验证的想法
+
+- [口型一致性](https://github.com/Rudrabha/Wav2Lip)
