@@ -53,3 +53,4 @@ https://www.youtube.com/watch?v=OpYYFGJPr0A
 - 数字人 https://www.synthesia.io/
 - 微软tts模型 microsoft/speecht5_tts 
 - 声音clone https://github.com/babysor/MockingBird/blob/main/README-CN.md
+- 语音驱动的口型一致性 https://github.com/Rudrabha/Wav2Lip
