@@ -37,7 +37,7 @@ $$
 
    ​	每次都进行recall，因此无法回答例如“我问过什么？”之类的闲聊问题
 
-   <img src="/docs/doc/gpt/assets/image-20231230153743327.png" alt="image-20231230153743327" style="zoom:50%;" />
+   <img src="/doc/gpt/assets/image-20231230153743327.png" alt="image-20231230153743327" style="zoom:50%;" />
 
 2. Context 模型
 
@@ -54,7 +54,7 @@ $$
 
    ​	无法解决recall数据不完整的问题
 
-<img src="/docs/doc/gpt/assets/image-20231230154115688.png" alt="image-20231230154115688" style="zoom:50%;" />
+<img src="/doc/gpt/assets/image-20231230154115688.png" alt="image-20231230154115688" style="zoom:50%;" />
 
 1. Condense_Plus_Context 模型
 
@@ -71,4 +71,4 @@ $$
 
    ​	每次要求LLM进行推理的数据量偏大，context无法容纳很多数据
 
-<img src="/docs/doc/gpt/assets/image-20231230154342856.png" alt="image-20231230154342856" style="zoom:50%;" />
+<img src="/doc/gpt/assets/image-20231230154342856.png" alt="image-20231230154342856" style="zoom:50%;" />
