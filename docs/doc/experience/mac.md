@@ -20,6 +20,7 @@
 ||vscode|可以是编辑器也可以是IDE|
 |设计类|Sketch||
 ||draw.io|有网页版和桌面版|
+||https://scribehow.com|自动将网站操作流程记录下来,用于生成指导文档|
 |思维类|xmind||
 |效率工具类|utools|可以替代聚焦功能|
 ||bartender|隐藏状态栏图标|
