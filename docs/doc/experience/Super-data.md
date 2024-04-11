@@ -13,6 +13,8 @@
 | 3Blue1Brown                          | https://www.3blue1brown.com                                                                        | 由 Grant Sanderson 创建的 YouTube 频道。这个频道从独特的视觉角度解说高等数学，内容包括线性代数、微积分、神经网络、黎曼猜想、傅里叶变换以及四元数等 |
 | Prompt优化设计 | https://promptperfect.jina.ai/ | 一个Prompt优化设计的网站，可以针对输入进行优化直到满意 |
 |[网站复制](https://github.com/abi/screenshot-to-code)| 通过GPT4 视觉模型复制一个网站|| 
+|[OpenRouter](https://openrouter.ai/)| |LLM API 套壳网站| 
+|[CloudFlare工具清单](https://github.com/zhuima/awesome-cloudflare/)| |基于CloudFlare实现的各种工具清单|
 
 # 资源仓库
 
