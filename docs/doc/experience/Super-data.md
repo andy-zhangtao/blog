@@ -15,6 +15,7 @@
 |[网站复制](https://github.com/abi/screenshot-to-code)| 通过GPT4 视觉模型复制一个网站||
 |[OpenRouter](https://openrouter.ai/)| |LLM API 套壳网站|
 |[CloudFlare工具清单](https://github.com/zhuima/awesome-cloudflare/)| |基于CloudFlare实现的各种工具清单|
+|[Midjourney 资源库](https://catjourney.life/all)|流行的Midjourney 图片和prompt示例|
 
 # 资源仓库
 
