@@ -2,7 +2,7 @@
 
 ## 思维导图
 
-![](https://p.ipic.vip/pxgstz.png)
+![](https://p.ipic.vip/t0wgmj.png)
 
 ## 主要内容
 
