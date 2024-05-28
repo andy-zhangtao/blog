@@ -17,6 +17,7 @@
 |[CloudFlare工具清单](https://github.com/zhuima/awesome-cloudflare/)| |基于CloudFlare实现的各种工具清单|
 |[Midjourney 资源库](https://catjourney.life/all)|流行的Midjourney 图片和prompt示例|
 |[CSS动效](https://animista.net/)|免费的css动态效果网站|
+|[Prompt列表](https://github.com/B3o/GPTS-Prompt-Collection)|集合的Prompt列表|
 
 # 资源仓库
 
